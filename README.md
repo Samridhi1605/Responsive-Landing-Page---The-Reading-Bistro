@@ -30,7 +30,7 @@ The_Reading_Bistro/
 
 ## 📸 Preview
 
-![screenshot](https://images.unsplash.com/photo-1509042239860-f550ce710b93)
+![screenshot](Screenshot 2025-04-16 165743.jpg)
 
 ---
 
